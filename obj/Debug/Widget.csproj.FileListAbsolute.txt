@@ -1,0 +1,15 @@
+C:\Users\Булат\source\repos\Widget\Widget\bin\Debug\Widget.exe.config
+C:\Users\Булат\source\repos\Widget\Widget\bin\Debug\Widget.exe
+C:\Users\Булат\source\repos\Widget\Widget\bin\Debug\Widget.pdb
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\Widget.csprojResolveAssemblyReference.cache
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\MainWindow.g.cs
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\App.g.cs
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\Widget_MarkupCompile.cache
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\Widget_MarkupCompile.lref
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\MainWindow.baml
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\Widget.g.resources
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\Widget.Properties.Resources.resources
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\Widget.csproj.GenerateResource.Cache
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\Widget.csproj.CoreCompileInputs.cache
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\Widget.exe
+C:\Users\Булат\source\repos\Widget\Widget\obj\Debug\Widget.pdb
